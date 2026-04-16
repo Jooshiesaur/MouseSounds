@@ -116,6 +116,7 @@ Done! You now have your own custom MouseSound.
 
 * You must have AutoHotkey installed to run .ahk files
 * Only one MouseSound should be running at a time (or sounds may overlap)
+* To disable a running MouseSound, go to your System tray and right-click the AutoHotkey icon. Then click "Exit"
 * If you want to create and edit sounds, I recommend Audacity. It's what I used to make the sounds in the default packs.
 * Be careful when downloading sound packs from the internet. Any MouseSounds from untrusted sources can contain malicious code. Stay safe.
 

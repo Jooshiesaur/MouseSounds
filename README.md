@@ -122,4 +122,8 @@ Done! You now have your own custom MouseSound.
 
 ---
 
+## CREDITS
+* Sound effects sourced from Pixabay (https://pixabay.com/sound-effects/)
+* All sounds are royalty-free and free for use under Pixabay’s license
+
 Have fun customizing your clicks :)

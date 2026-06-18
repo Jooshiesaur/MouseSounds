@@ -1,5 +1,6 @@
 # MouseSounds
 Custom mouse click sound packs using AutoHotkey
+Designed for Windows 11 only
 
 Welcome to MouseSounds!
 This lets you add custom sound effects to your mouse clicks (left, right, and middle button).
